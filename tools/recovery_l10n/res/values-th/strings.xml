@@ -12,3 +12,4 @@
     <string name="recovery_wipe_data_confirmation" msgid="5439823343348043954">"ต้องการล้างข้อมูลผู้ใช้ทั้งหมดใช่ไหม\n\n การกระทำนี้จะยกเลิกไม่ได้"</string>
     <string name="recovery_cancel_wipe_data" msgid="66987687653647384">"ยกเลิก"</string>
 </resources>
+
