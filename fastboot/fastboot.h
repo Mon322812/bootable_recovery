@@ -22,3 +22,4 @@
 #include "recovery_ui/device.h"
 
 Device::BuiltinAction StartFastboot(Device* device, const std::vector<std::string>& args);
+
