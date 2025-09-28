@@ -276,3 +276,4 @@ ZipArchiveHandle FilePackage::GetZipArchiveHandle() {
 
   return zip_handle_;
 }
+
