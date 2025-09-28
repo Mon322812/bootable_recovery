@@ -16,3 +16,4 @@
 
 // TODO: Remove this file once we remove all places that include this file.
 #include "bootloader_message/include/bootloader_message/bootloader_message.h"
+
