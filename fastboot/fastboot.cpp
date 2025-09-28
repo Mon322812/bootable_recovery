@@ -114,3 +114,4 @@ Device::BuiltinAction StartFastboot(Device* device, const std::vector<std::strin
   }
   return kFastbootMenuActions[chosen_item].second;
 }
+
