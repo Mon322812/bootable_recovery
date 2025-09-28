@@ -180,3 +180,4 @@ bool WipeSystem(RecoveryUI* ui, const std::function<bool()>& confirm_func,
   ui->Print("System wipe %s.\n", success ? "complete" : "failed");
   return success;
 }
+
